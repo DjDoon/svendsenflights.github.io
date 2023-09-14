@@ -3,7 +3,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://images.unsplash.com/photo-1491956175078-460aea0914ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1550&q=80") center center;
+    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://images.pexels.com/photos/17636979/pexels-photo-17636979/free-photo-of-drone-shot-of-new-york.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") center center;
     background-size:cover;
     width:100vw;
     height:100vh;
